@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">İlkProje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gerceklestirmek_istediginiz_eylemi_seciniz">Gerceklestirmek istediginiz eylemi seciniz</string>
+    <string name="r_n_giri_i">Urun Girisi</string>
+    <string name="urun_girisi">Urun Girisi</string>
+    <string name="urun_degerlendirmesi">Urun Degerlendirmesi</string>
+    <string name="product_price">Product Price</string>
+    <string name="delete">Delete</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="fotograf_sec">Fotograf Sec</string>
+    <string name="urunun_fiyatini_giriniz">Urunun Fiyatini Giriniz</string>
+</resources>
